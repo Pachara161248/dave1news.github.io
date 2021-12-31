@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Pachara161248/Pachara.GitHub.co/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Pachara146258369@gmail.com](https://Pachara 146258369.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
