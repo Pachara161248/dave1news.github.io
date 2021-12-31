@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Pachara146258369@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted git reset
 
 
 # Header 1
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and git push text
 
-[Link](url)https://pachara161248.github.io/Pachara.GitHub.co/ and ![Image](src)
+[Link](url) https://user-images.githubusercontent.com/96884208/147799112-36862e01-608e-4ff5-93b9-f295639b938c.jpg/ and ![Image](src)![IMG_1639460469948.jpg](https://user-images.githubusercontent.com/96884208/147799112-36862e01-608e-4ff5-93b9-f295639b938c.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
